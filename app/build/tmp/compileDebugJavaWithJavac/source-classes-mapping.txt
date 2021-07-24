@@ -1,0 +1,42 @@
+com/crisav2/mobiletest3/di/module/ApplicationModule_ProvidesInteractorsFactory.java
+ com.crisav2.mobiletest3.di.module.ApplicationModule_ProvidesInteractorsFactory
+com/crisav2/mobiletest3/repository/database/db/PostDatabase_Impl.java
+ com.crisav2.mobiletest3.repository.database.db.PostDatabase_Impl
+ com.crisav2.mobiletest3.repository.database.db.PostDatabase_Impl$1
+com/crisav2/mobiletest3/posts/di/PostsModule_ProvidePostsPresenterFactory.java
+ com.crisav2.mobiletest3.posts.di.PostsModule_ProvidePostsPresenterFactory
+com/crisav2/mobiletest3/postDetails/view/PostDetailFragment_MembersInjector.java
+ com.crisav2.mobiletest3.postDetails.view.PostDetailFragment_MembersInjector
+com/crisav2/mobiletest3/repository/useCases/ImplPostUseCases_MembersInjector.java
+ com.crisav2.mobiletest3.repository.useCases.ImplPostUseCases_MembersInjector
+com/crisav2/mobiletest3/di/component/DaggerApplicationComponent.java
+ com.crisav2.mobiletest3.di.component.DaggerApplicationComponent
+ com.crisav2.mobiletest3.di.component.DaggerApplicationComponent$1
+ com.crisav2.mobiletest3.di.component.DaggerApplicationComponent$Builder
+ com.crisav2.mobiletest3.di.component.DaggerApplicationComponent$PostDetailComponentImpl
+ com.crisav2.mobiletest3.di.component.DaggerApplicationComponent$PostsComponentImpl
+com/crisav2/mobiletest3/di/module/ApplicationModule_ProvidesCommentsAPIFactory.java
+ com.crisav2.mobiletest3.di.module.ApplicationModule_ProvidesCommentsAPIFactory
+com/crisav2/mobiletest3/BuildConfig.java
+ com.crisav2.mobiletest3.BuildConfig
+com/crisav2/mobiletest3/postDetails/di/PostDetailModule_ProvidePostDetailPresenterFactory.java
+ com.crisav2.mobiletest3.postDetails.di.PostDetailModule_ProvidePostDetailPresenterFactory
+com/crisav2/mobiletest3/di/module/ApplicationModule_ProvidesUsersAPIFactory.java
+ com.crisav2.mobiletest3.di.module.ApplicationModule_ProvidesUsersAPIFactory
+com/crisav2/mobiletest3/repository/database/db/PostDao_Impl.java
+ com.crisav2.mobiletest3.repository.database.db.PostDao_Impl
+ com.crisav2.mobiletest3.repository.database.db.PostDao_Impl$1
+ com.crisav2.mobiletest3.repository.database.db.PostDao_Impl$2
+ com.crisav2.mobiletest3.repository.database.db.PostDao_Impl$3
+ com.crisav2.mobiletest3.repository.database.db.PostDao_Impl$4
+ com.crisav2.mobiletest3.repository.database.db.PostDao_Impl$5
+com/crisav2/mobiletest3/posts/view/PostsFragment_MembersInjector.java
+ com.crisav2.mobiletest3.posts.view.PostsFragment_MembersInjector
+com/crisav2/mobiletest3/di/module/ApplicationModule_ProvidesPostsAPIFactory.java
+ com.crisav2.mobiletest3.di.module.ApplicationModule_ProvidesPostsAPIFactory
+com/crisav2/mobiletest3/di/module/ApplicationModule_ProvidesListPostsUseCaseFactory.java
+ com.crisav2.mobiletest3.di.module.ApplicationModule_ProvidesListPostsUseCaseFactory
+com/crisav2/mobiletest3/di/module/ApplicationModule_ProvidesPostDetailUseCaseFactory.java
+ com.crisav2.mobiletest3.di.module.ApplicationModule_ProvidesPostDetailUseCaseFactory
+com/crisav2/mobiletest3/di/module/ApplicationModule_ContextFactory.java
+ com.crisav2.mobiletest3.di.module.ApplicationModule_ContextFactory
