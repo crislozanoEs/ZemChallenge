@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MobileTest3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_favorite_descriptor">image favorite</string>
+    <string name="image_opened_descriptor">image opened</string>
+    <string name="post_detail_title_description">Description</string>
+    <string name="post_detail_title_user">User</string>
+    <string name="post_comment_comments_title">Comments</string>
+    <string name="reload_action_title">Reload</string>
+    <string name="radio_group_all_title">ALL</string>
+    <string name="radio_group_favorite_title">FAVORITE</string>
+    <string name="delete_all_action_button">Delete all action button</string>
+</resources>
